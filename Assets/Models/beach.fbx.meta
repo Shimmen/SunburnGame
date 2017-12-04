@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 18532576c316d9c4d908340bfb81e23f
+timeCreated: 1512391639
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BeachTerrain
+    100004: BeachTerrain.001
+    100006: BeachTerrain.001_MeshPart0
+    100008: BeachTerrain.001_MeshPart1
+    100010: Circle.001
+    100012: Sun
+    100014: Sphere.001
+    400000: //RootNode
+    400002: BeachTerrain
+    400004: BeachTerrain.001
+    400006: BeachTerrain.001_MeshPart0
+    400008: BeachTerrain.001_MeshPart1
+    400010: Circle.001
+    400012: Sun
+    400014: Sphere.001
+    2300000: BeachTerrain
+    2300002: BeachTerrain.001_MeshPart0
+    2300004: BeachTerrain.001_MeshPart1
+    2300006: Circle.001
+    2300008: Sphere.001
+    3300000: BeachTerrain
+    3300002: BeachTerrain.001_MeshPart0
+    3300004: BeachTerrain.001_MeshPart1
+    3300006: Circle.001
+    3300008: Sphere.001
+    4300000: BeachTerrain.001_MeshPart0
+    4300002: BeachTerrain.001_MeshPart1
+    4300004: BeachTerrain
+    4300006: Circle.001
+    4300008: Sphere.001
+    10800000: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 867831a7bffcb0f41b01e039fc973ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: f5418cfa543c85d48a4ded7cf9623ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 846ed755fd62a7246b7d0e905573c4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badbyxor
+    second: {fileID: 2100000, guid: 635f5462588ca3047ac33369e136dd94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand_texture
+    second: {fileID: 2100000, guid: db54404f9e493ab43a46012cd17d38aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sea_texture
+    second: {fileID: 2100000, guid: db54404f9e493ab43a46012cd17d38aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sunshade_textured
+    second: {fileID: 2100000, guid: 3773c8a5df8fa1544af52b4c34ee70b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: support
+    second: {fileID: 2100000, guid: 3d0c6370fbf5ea54388e327ea3c397c6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
